@@ -1,4 +1,4 @@
 # Hi, I'm Priya
 
-[See my projects](projects.md)
+[See my projects](Projects.md)
 
