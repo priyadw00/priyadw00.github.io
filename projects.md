@@ -1,4 +1,5 @@
 # Projects
+
 ## iAssist 
 [view repository](https://github.com/ariaramanathan/iAssist)
 An iOS app designed to improve the usability of iOS home screen for elderly users by replacing icons with clearer, more accessible icons. 
@@ -9,7 +10,7 @@ Collaborator: Aria Ramanathan
 
 ## Air Quality Alert System
 [view repository](https://github.com/SpikeAlerts/SpikeAlerts_0)
-Moniters air quality data and sends hyper local alerts to subscribers who live and work in the area when air quality is [oor. 
+Monitors air quality data and sends hyper local alerts to subscribers who live and work in the area when air quality is [oor. 
 
 Uses a PostgreSQL database, Python for app logic, and Twilio to send texts. 
 
