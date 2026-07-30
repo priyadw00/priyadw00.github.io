@@ -1,7 +1,6 @@
-# Priya Dalal-Whelan 
 [image of Priya](headerpic.JPG)
 
-# Projects 
+#Projects 
 
 ## Port scanner
 
