@@ -1,6 +1,7 @@
 title: Priya Dalal-Whelan personal portfolio
 description: View my projects!
-theme: hitchens-theme
-remote_theme: pages-themes/tactile@v0.2.0
-# plugins:
-#jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal 
+# theme: hitchens-theme
+# remote_theme: pages-themes/tactile@v0.2.0
+# # plugins:
+# #jekyll-remote-theme # add this line to the plugins list if you already have one
