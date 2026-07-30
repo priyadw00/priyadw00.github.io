@@ -1,5 +1,5 @@
 # Priya Dalal-Whelan 
-[image of Priya](/headerpic.jpg)
+[image of Priya](headerpic.JPG)
 
 # Projects 
 
