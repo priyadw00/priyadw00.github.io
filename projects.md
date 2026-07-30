@@ -1,4 +1,4 @@
-# Priya Dalal-Whelan 
+# Projects
 
 ## iAssist 
 [View repository](https://github.com/ariaramanathan/iAssist)
