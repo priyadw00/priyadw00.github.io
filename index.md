@@ -1,4 +1,4 @@
-[image of Priya](headerpic.JPG)
+![image of Priya](headerpic.JPG)
 
 #Projects 
 
